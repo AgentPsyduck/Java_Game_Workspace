@@ -27,6 +27,5 @@ public class Artist {
 		glLoadIdentity();
 		glOrtho(0, 600, 500, 0, 1, -1);
 		glMatrixMode(GL_MODELVIEW);
-		
 	}
 }
